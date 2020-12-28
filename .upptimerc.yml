@@ -6,19 +6,14 @@ repo: luce-status # Your GitHub repository name
 sites:
   - name: ExpressionTutor
     url: https://expressiontutor.org
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: QuizPlatform
+    url: https://quiz.lumi.inf.usi.ch
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
+  publish: true
   baseUrl: /luce-status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
