@@ -4,25 +4,25 @@ repo: luce-status # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: ExpressionTutor
-    url: https://expressiontutor.org
-  - name: QuizPlatform
-    url: https://quiz.lumi.inf.usi.ch
-  - name: QuizPlatform (Test)
-    url: https://test.quiz.lumi.inf.usi.ch
-  - name: QuizPlatform (Demo)
-    url: https://demo.quiz.lumi.inf.usi.ch
+  - name: 回忆博客
+    url: https://www.huiyiu.com
+  - name: 回忆云商城
+    url: http://llo-i.cn
+  - name: 秦天代挂网
+    url: https://www.qintian.cn
+  - name: 百度网
+    url: https://baidu.com
     
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  # cname: demo.upptime.js.org
+  # cname: huiyio.github.io
   # Uncomment the following line if you don't have a custom domain and add your repo name
   publish: true
   baseUrl: /luce-status
-  logoUrl: https://raw.githubusercontent.com/lucach/luce-status/master/luce.svg
-  name: LuCE monitor
-  introTitle: LuCE websites monitor
+  logoUrl: https://raw.githubusercontent.com/huiyio/luce-status/master/luce.svg
+  name: HuiYi monitor
+  introTitle: HuiYi websites monitor
   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
