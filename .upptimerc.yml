@@ -4,13 +4,13 @@ repo: luce-status # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: 回忆博客
+  - name: huiyibk
     url: https://www.huiyiu.com
-  - name: 回忆云商城
+  - name: ysc
     url: http://llo-i.cn
-  - name: 秦天代挂网
+  - name: dgw
     url: https://www.qintian.cn
-  - name: 百度网
+  - name: baidu
     url: https://baidu.com
     
 
