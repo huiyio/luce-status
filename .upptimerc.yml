@@ -16,7 +16,7 @@ sites:
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  # cname: huiyio.github.io
+  # cname:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   publish: true
   baseUrl: /luce-status
